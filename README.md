@@ -7,4 +7,4 @@ The user can maintain a list of grocery items he has to buy from the market.
 <br>
 The user can add items, delete them and even modify them.
 <br>
-A green prompt is displayed when iem is added, red from deleting and modifying the item.
+A green prompt is displayed when item is added, red for deleting and modifying the item.
